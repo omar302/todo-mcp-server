@@ -1,0 +1,18 @@
+server:
+  port: 8093
+
+spring:
+  application:
+    name: todos-mcp-server
+  ai:
+    mcp:
+      server:
+        name: todo-inbox
+        protocol: streamable
+
+todos:
+  file: todos.json
+
+logging:
+  level:
+    io.modelcontextprotocol.spec.McpSchema: DEBUG

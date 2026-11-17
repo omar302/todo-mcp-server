@@ -1,0 +1,33 @@
+[ {
+  "id" : 1,
+  "title" : "title 1",
+  "notes" : "notes 1",
+  "priority" : "HIGH",
+  "dueDate" : "2026-11-20",
+  "done" : false,
+  "source" : "source 1"
+}, {
+  "id" : 2,
+  "title" : "title 2",
+  "notes" : "notes 2",
+  "priority" : "LOW",
+  "dueDate" : "2026-11-17",
+  "done" : true,
+  "source" : "source 2"
+}, {
+  "id" : 3,
+  "title" : "title 3",
+  "notes" : "notes 3",
+  "priority" : "NORMAL",
+  "dueDate" : "2026-11-20",
+  "done" : false,
+  "source" : "source 3"
+}, {
+  "id" : 4,
+  "title" : "test",
+  "notes" : null,
+  "priority" : "LOW",
+  "dueDate" : "2026-11-22",
+  "done" : false,
+  "source" : "mcp-inspector"
+} ]
